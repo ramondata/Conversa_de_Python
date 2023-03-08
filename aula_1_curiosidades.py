@@ -28,3 +28,11 @@ print(_in)
 
 recebe_varias_entradas = 1,2,3
 a, b, c = recebe_varias_entradas
+
+import calendar
+calendar.month(year, month, day)
+
+import psutils
+#add alguma demonstração
+
+#add demostraçao de writexlsx e openpyxl
