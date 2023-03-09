@@ -52,3 +52,6 @@ set_2: set = {209, 498, 138, 2305, 689, 155, 235}
 intersecao: set = set_1.intersection(set_2)
 #interseção entre sets no set da esquerda ou principal:
 set_1.intersection_update(set_2)
+
+#String
+#manipulações em strings aqui
