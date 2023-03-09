@@ -36,3 +36,5 @@ import psutils
 #add alguma demonstração
 
 #add demostraçao de writexlsx e openpyxl
+
+# demonstração com pyautogui
